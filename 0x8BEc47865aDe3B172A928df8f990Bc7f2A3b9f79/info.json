@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x8BEc47865aDe3B172A928df8f990Bc7f2A3b9f79",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "AURORA token is a governance token to ensure proper upgrades to the protocol. Aurora is governed by AuroraDAO which includes representatives from different ecosystems and sectors of the blockchain industry."
+  },
+  "id": "b7eec06c-65d7-43be-82de-8256633f1720",
+  "links": {
+    "explorer": "https://aurorascan.dev/address/0x8bec47865ade3b172a928df8f990bc7f2a3b9f79",
+    "website": "https://aurora.dev/",
+    "twitter": "https://twitter.com/auroraisnear",
+    "github": "https://github.com/aurora-is-near",
+    "telegram": "https://t.me/auroraisnear"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/aurora-tokenlist/master/0x8BEc47865aDe3B172A928df8f990Bc7f2A3b9f79/logo.png"
+  },
+  "name": "Aurora",
+  "networkCode": "aurora",
+  "spam": false,
+  "symbol": "AURORA",
+  "tags": [
+    "governance"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

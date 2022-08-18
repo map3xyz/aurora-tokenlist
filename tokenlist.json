@@ -1,0 +1,57 @@
+{
+  "name": "@Map3/aurora-tokenlist",
+  "timestamp": "2022-08-18T13:25:23.784Z",
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  },
+  "keywords": [
+    "map3 assets"
+  ],
+  "tags": {
+    "wrapped": {
+      "name": "wrapped",
+      "description": "Asset wrapped using wormhole bridge"
+    },
+    "leveraged": {
+      "name": "leveraged",
+      "description": "Leveraged asset"
+    },
+    "bull": {
+      "name": "bull",
+      "description": "Leveraged Bull asset"
+    },
+    "bear": {
+      "name": "bear",
+      "description": "Leveraged Bear asset"
+    },
+    "stablecoin": {
+      "name": "stablecoin",
+      "description": "Tokens that are fixed to an external asset"
+    },
+    "staking": {
+      "name": "staking",
+      "description": "Tokens that can be staked"
+    }
+  },
+  "logoURI": "https://map3.xyz/images/brand/map3-open-graph.png",
+  "tokens": [
+    {
+      "address": "0x7faA64Faf54750a2E3eE621166635fEAF406Ab22",
+      "name": "WannaSwap",
+      "decimals": 18,
+      "symbol": "WANNA",
+      "tags": []
+    },
+    {
+      "address": "0x8BEc47865aDe3B172A928df8f990Bc7f2A3b9f79",
+      "name": "Aurora",
+      "decimals": 18,
+      "symbol": "AURORA",
+      "tags": [
+        "governance"
+      ]
+    }
+  ]
+}
